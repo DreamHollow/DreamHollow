@@ -2,7 +2,9 @@
 - 👀 I’m interested in a lot of things, but mostly computers.
 - 🌱 I’m currently learning at least 3 different programming languages.
 - 💞️ I’m looking to collaborate on nothing at the moment but I will push some code eventually.
-- 📫 How to reach me: do not.
+- 📫 How to reach me: unless it's about a security vulnerability or you want to alter my code, do not.
+
+I would also like to make it clear that I'm new to GitHub and Git push/pull/merge/commit systems in general.
 
 <!---
 DreamHollow/DreamHollow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
