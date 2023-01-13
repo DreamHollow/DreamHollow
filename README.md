@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects when possible.
 - 📫 How to reach me: my email.
 
-I tend to fork repos that I am interested in contributing to at some point in the future.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DreamHollow)](https://git.io/streak-stats)
 
 <!---
 DreamHollow/DreamHollow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
