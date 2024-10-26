@@ -1,6 +1,6 @@
 I'm DreamHollow, sometimes known by DreamHollow4219.
 
-I am a C++ specialist, though I do dabble in languages like C, C#, Rust, Java, Go, and Ruby.
+I am a C++ specialist, though I do dabble in languages like C, C#, Rust, Java, Svelte, and Ruby.
 
 Welcome to my profile.
 
