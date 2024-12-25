@@ -1,8 +1,7 @@
 I'm DreamHollow, sometimes known by DreamHollow4219.
 
-I am a C++ specialist, though I do dabble in languages like C, C#, Rust, Java, Svelte, and Ruby.
-
-Welcome to my profile.
+I am a hobbyist programmer slowly branching into more professional programming.
+I program in C, C++, C#, Rust, and occasionally Ruby.
 
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DreamHollow)](https://git.io/streak-stats)
